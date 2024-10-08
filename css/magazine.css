@@ -147,13 +147,13 @@ body{
 	margin:0;
 }
 
-/* .page.p1.odd>.gradient {
+.page.p1.odd>.gradient {
 	left: 2px;
 	width: 5%;
 	background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.3), rgba(255, 255, 255, 0));
-} */
+}
 
-/* .magazine .even .gradient{
+.magazine .even .gradient{
 	position:absolute;
 	top:0;
 	left:0;
@@ -166,9 +166,9 @@ body{
 	background-image:-ms-linear-gradient(left, rgba(0,0,0,0) 95%, rgba(0,0,0,.6) 100%);
 	background-image:-o-linear-gradient(left, rgba(0,0,0,0) 95%, rgba(0,0,0,.6) 100%);
 	background-image:linear-gradient(left, rgba(0,0,0,0) 95%, rgba(0,0,0,.6) 100%);
-} */
+}
 
-/* .magazine .odd .gradient{
+.magazine .odd .gradient{
 	position:absolute;
 	top:0;
 	left:0;
@@ -181,7 +181,7 @@ body{
 	background-image:-ms-linear-gradient(right, rgba(0,0,0,0) 95%, rgba(0,0,0,.6) 100%);
 	background-image:-o-linear-gradient(right, rgba(0,0,0,0) 95%, rgba(0,0,0,.6) 100%);
 	background-image:linear-gradient(right, rgba(0,0,0,0) 95%, rgba(0,0,0,.6) 100%);
-} */
+}
 
 .magazine-viewport .zoom-in .even .gradient,
 .magazine-viewport .zoom-in .odd .gradient{
