@@ -60,6 +60,16 @@ body{
 	}
 }
 
+.developer-credits {
+	font: 11px arial;
+	color: rgba(0, 0, 0, 0.8);
+	padding: 5px 10px;
+	z-index: 99999999;
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+}
+
 .magazine-viewport {
 	-webkit-perspective:2000px;
 	-moz-perspective: 2000px;
